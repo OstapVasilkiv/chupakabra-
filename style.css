@@ -9,13 +9,11 @@ p {
   text-align:center;
 }
 img {
-  width: 150px;
-  height: 300px; 
+  width: 200px;
+  height: 200px; 
 }
 .kartinki1 {
    display: flex;
     justify-content: center; 
     align-items: center; 
-    gap: 50px; 
-    padding-top: 50px; 
 }
