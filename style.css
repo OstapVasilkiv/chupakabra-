@@ -9,8 +9,8 @@ p {
   text-align:center;
 }
 img {
-  width: 25px;
-  height: 25px; 
+  width: 100px;
+  height: 100px; 
 }
 .kartinki1 {
    display: flex;
