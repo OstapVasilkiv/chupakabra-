@@ -5,11 +5,6 @@ p {
   font-size: 20pt;
   font-family: "Georgia";
 }
-img {
-  width: 25px;
-  height: 25px; 
-  object-fit: cover; 
-}
 .zagolov {
   text-align:center;
 }
